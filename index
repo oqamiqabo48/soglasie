@@ -1,0 +1,276 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Юридическая компания «СОГЛАСИЕ» — выплаты СВО, юридическая помощь</title>
+  <meta name="description" content="ЮК «СОГЛАСИЕ» — помогаем с выплатами за СВО и решаем сопутствующие юридические вопросы. Бесплатная консультация, опытные юристы, доверие клиентов."/>
+  <meta property="og:title" content="ЮК «СОГЛАСИЕ»" />
+  <meta property="og:description" content="Помощь с выплатами за СВО и сопутствующие юридические вопросы." />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://example.com" />
+  <meta property="og:image" content="https://example.com/og-image.jpg" />
+  <link rel="icon" href="/favicon.ico" />
+  <style>
+    :root{--bg:#0f172a;--card:#0b1226;--text:#e5e7eb;--muted:#9aa4b2;--brand:#3b82f6;--brand-2:#22c55e;--accent:#f59e0b;--ring:rgba(59,130,246,.5);--radius:1.25rem;--shadow:0 10px 30px rgba(0,0,0,.35)}
+    *{box-sizing:border-box}
+    html,body{margin:0;padding:0;font-family:system-ui,-apple-system,Segoe UI,Roboto,Inter,Ubuntu,"Helvetica Neue",Arial,sans-serif;background:linear-gradient(160deg,#0b1022,#0f172a 50%,#0b1022);color:var(--text)}
+    a{color:var(--brand);text-decoration:none}
+    a:hover{text-decoration:underline}
+    .container{max-width:1100px;margin:0 auto;padding:24px}
+    header{position:sticky;top:0;z-index:10;background:rgba(11,16,34,.7);backdrop-filter:blur(10px);border-bottom:1px solid rgba(255,255,255,.06)}
+    .nav{display:flex;align-items:center;gap:16px;justify-content:space-between}
+    .logo{display:flex;align-items:center;gap:10px;font-weight:800;letter-spacing:.2px}
+    .logo-mark{width:36px;height:36px;border-radius:12px;background:linear-gradient(135deg,var(--brand),var(--brand-2));box-shadow:var(--shadow)}
+    .nav-links{display:flex;gap:18px;flex-wrap:wrap}
+    .nav-links a{padding:10px 14px;border-radius:12px;background:rgba(255,255,255,.04)}
+    .cta{display:inline-flex;align-items:center;gap:10px;padding:12px 16px;border-radius:14px;background:linear-gradient(135deg,var(--brand),var(--brand-2));color:white;border:none;cursor:pointer;box-shadow:var(--shadow)}
+    .hero{display:grid;grid-template-columns:1.1fr 0.9fr;gap:26px;align-items:center;padding:40px 0}
+    .hero-card{background:linear-gradient(180deg,rgba(255,255,255,.06),rgba(255,255,255,.03));border:1px solid rgba(255,255,255,.08);padding:26px;border-radius:var(--radius);box-shadow:var(--shadow)}
+    .hero h1{font-size:38px;line-height:1.15;margin:0 0 10px}
+    .hero p{color:var(--muted);margin:0 0 18px}
+    .badges{display:flex;gap:10px;flex-wrap:wrap}
+    .badge{border:1px solid rgba(255,255,255,.12);padding:8px 12px;border-radius:999px;background:rgba(255,255,255,.04);font-size:14px}
+    .phone-card{background:linear-gradient(135deg,rgba(34,197,94,.15),rgba(59,130,246,.15));border:1px dashed rgba(255,255,255,.2);padding:22px;border-radius:var(--radius)}
+    .phone-card a{font-weight:700;font-size:22px}
+    section{padding:42px 0}
+    .section-title{font-size:28px;margin:0 0 18px}
+    .grid-3{display:grid;grid-template-columns:repeat(3,1fr);gap:18px}
+    .card{background:linear-gradient(180deg,rgba(255,255,255,.06),rgba(255,255,255,.03));border:1px solid rgba(255,255,255,.08);padding:20px;border-radius:var(--radius)}
+    .certs,.team{display:grid;grid-template-columns:repeat(4,1fr);gap:16px}
+    .cert,.person{background:rgba(255,255,255,.04);border:1px solid rgba(255,255,255,.08);border-radius:16px;padding:14px;text-align:center}
+    .cert img,.person img{width:100%;height:180px;object-fit:cover;border-radius:12px;border:1px solid rgba(255,255,255,.08)}
+    .person h4{margin:10px 0 4px}
+    .muted{color:var(--muted)}
+    .reviews{display:grid;grid-template-columns:1.1fr .9fr;gap:20px}
+    .review{padding:14px;border:1px solid rgba(255,255,255,.08);border-radius:14px;background:rgba(255,255,255,.04);margin-bottom:12px}
+    .review small{color:var(--muted)}
+    form input, form textarea{width:100%;padding:12px;border-radius:12px;background:#0a1226;border:1px solid rgba(255,255,255,.12);color:var(--text);outline:none}
+    form input:focus, form textarea:focus{box-shadow:0 0 0 4px var(--ring)}
+    form textarea{min-height:120px;resize:vertical}
+    form .row{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+    form button{margin-top:10px}
+    .contacts{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}
+    .contact-card{padding:18px;border:1px solid rgba(255,255,255,.08);border-radius:16px;background:rgba(255,255,255,.04)}
+    footer{padding:28px 0;border-top:1px solid rgba(255,255,255,.08);color:var(--muted)}
+    @media (max-width: 900px){.hero{grid-template-columns:1fr}.reviews{grid-template-columns:1fr}.grid-3,.certs,.team,.contacts{grid-template-columns:1fr 1fr}}
+    @media (max-width: 580px){.nav-links{display:none}.grid-3,.certs,.team,.contacts{grid-template-columns:1fr}.hero h1{font-size:28px}}
+  </style>
+</head>
+<body>
+  <header>
+    <div class="container nav">
+      <div class="logo">
+        <div class="logo-mark" aria-hidden="true"></div>
+        <div>ЮК «СОГЛАСИЕ»</div>
+      </div>
+      <nav class="nav-links">
+        <a href="#about">О компании</a>
+        <a href="#services">Услуги</a>
+        <a href="#certs">Сертификаты</a>
+        <a href="#team">Команда</a>
+        <a href="#reviews">Отзывы</a>
+        <a href="#contacts">Контакты</a>
+      </nav>
+      <a class="cta" href="tel:+7XXXXXXXXXX">Позвонить</a>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="hero">
+      <div class="hero-card">
+        <h1>Юридическая помощь по выплатам за СВО и сопутствующим вопросам</h1>
+        <p>Сопровождаем военнослужащих, добровольцев и семьи: от консультации до получения положенных выплат и статусов. Работаем быстро, бережно и конфиденциально.</p>
+        <div class="badges">
+          <div class="badge">Бесплатная первичная консультация</div>
+          <div class="badge">Персональный юрист</div>
+          <div class="badge">Работаем по всей РФ</div>
+        </div>
+        <div style="margin-top:16px;display:flex;gap:12px;flex-wrap:wrap">
+          <a class="cta" href="#contacts">Получить консультацию</a>
+          <a class="cta" style="background:linear-gradient(135deg,var(--accent),var(--brand));" href="https://www.rusprofile.ru/XXXXXXXX" target="_blank" rel="noopener">Профиль на Rusprofile</a>
+        </div>
+      </div>
+      <div class="phone-card">
+        <div class="muted">Входящая линия (кнопка «Звонок» делает вызов):</div>
+        <a href="tel:+7XXXXXXXXXX">+7 (XXX) XXX-XX-XX</a>
+        <div class="muted" style="margin-top:8px">Корп. почта: <a href="mailto:info@soglasie-legal.ru">info@soglasie-legal.ru</a></div>
+      </div>
+    </section>
+
+    <section id="about">
+      <h2 class="section-title">О компании</h2>
+      <div class="grid-3">
+        <div class="card">
+          <h3>Миссия</h3>
+          <p class="muted">Восстанавливать права защитников и их семей: своевременные выплаты, льготы, статусы. Мы говорим простым языком и берём на себя бумажную работу.</p>
+        </div>
+        <div class="card">
+          <h3>Компетенции</h3>
+          <p class="muted">Выплаты при ранении/увечье/гибели, страховые и единовременные, региональные меры поддержки, обжалование отказов, оформление статусов, социальные выплаты, пенсии, жильё.</p>
+        </div>
+        <div class="card">
+          <h3>Почему мы</h3>
+          <p class="muted">Опытные юристы, проверяем документы перед подачей, соблюдаем сроки и держим вас в курсе. Работаем официально: <a href="https://www.rusprofile.ru/XXXXXXXX" target="_blank" rel="noopener">карточка компании на Rusprofile</a>.</p>
+        </div>
+      </div>
+    </section>
+
+    <section id="services">
+      <h2 class="section-title">Чем помогаем</h2>
+      <div class="grid-3">
+        <div class="card">
+          <h3>Консультация и стратегия</h3>
+          <p class="muted">Разбираем вашу ситуацию, формируем план действий, список выплат и нужные документы.</p>
+        </div>
+        <div class="card">
+          <h3>Сбор и подача документов</h3>
+          <p class="muted">Готовим заявления, запросы, представляем интересы в ведомствах и судах.</p>
+        </div>
+        <div class="card">
+          <h3>Обжалование отказов</h3>
+          <p class="muted">Если отказали или занизили сумму — готовим жалобы и иски, сопровождаем до результата.</p>
+        </div>
+      </div>
+    </section>
+
+    <section id="certs">
+      <h2 class="section-title">Сертификаты и благодарности</h2>
+      <p class="muted">Ниже — подборка наград и благодарственных писем от госорганов и партнёров. Замените изображения на реальные сканы.</p>
+      <div class="certs">
+        <div class="cert"><img src="https://images.unsplash.com/photo-1517849845537-4d257902454a?auto=format&fit=crop&w=800&q=60" alt="Сертификат 1"><div class="muted">Приказ/Сертификат №1</div></div>
+        <div class="cert"><img src="https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?auto=format&fit=crop&w=800&q=60" alt="Сертификат 2"><div class="muted">Благодарность №2</div></div>
+        <div class="cert"><img src="https://images.unsplash.com/photo-1523246192224-8344dfaa4b7b?auto=format&fit=crop&w=800&q=60" alt="Сертификат 3"><div class="muted">Благодарственное письмо №3</div></div>
+        <div class="cert"><img src="https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?auto=format&fit=crop&w=800&q=60" alt="Сертификат 4"><div class="muted">Сертификат участия №4</div></div>
+      </div>
+    </section>
+
+    <section id="team">
+      <h2 class="section-title">Наша команда</h2>
+      <div class="team">
+        <div class="person">
+          <img src="https://images.unsplash.com/photo-1603415526960-f7e0328d5d0e?auto=format&fit=crop&w=800&q=60" alt="Леонтий Алексеевич Гаврилов">
+          <h4>Леонтий Алексеевич Гаврилов</h4>
+          <div class="muted"><a href="mailto:gavrilov@soglasie-legal.ru">gavrilov@soglasie-legal.ru</a></div>
+        </div>
+        <div class="person">
+          <img src="https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=800&q=60" alt="Василиса Романовна Чернышёва">
+          <h4>Василиса Романовна Чернышёва</h4>
+          <div class="muted"><a href="mailto:chernysheva@soglasie-legal.ru">chernysheva@soglasie-legal.ru</a></div>
+        </div>
+        <div class="person">
+          <img src="https://images.unsplash.com/photo-1547425260-76bcadfb4f2e?auto=format&fit=crop&w=800&q=60" alt="Ефим Платонович Ветров">
+          <h4>Ефим Платонович Ветров</h4>
+          <div class="muted"><a href="mailto:vetrov@soglasie-legal.ru">vetrov@soglasie-legal.ru</a></div>
+        </div>
+        <div class="person">
+          <img src="https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=800&q=60" alt="Агата Степановна Ларионова">
+          <h4>Агата Степановна Ларионова</h4>
+          <div class="muted"><a href="mailto:larionova@soglasie-legal.ru">larionova@soglasie-legal.ru</a></div>
+        </div>
+      </div>
+    </section>
+
+    <section id="reviews">
+      <h2 class="section-title">Отзывы клиентов</h2>
+      <div class="reviews">
+        <div>
+          <div id="reviews-list"></div>
+        </div>
+        <div class="card">
+          <h3 style="margin-top:0">Оставить отзыв</h3>
+          <form id="review-form">
+            <div class="row">
+              <div><label for="name" class="muted">Ваше имя</label><input id="name" name="name" placeholder="Имя" required></div>
+              <div><label for="rating" class="muted">Оценка (1–5)</label><input id="rating" name="rating" type="number" min="1" max="5" value="5" required></div>
+            </div>
+            <div style="margin-top:10px"><label for="text" class="muted">Комментарий</label><textarea id="text" name="text" placeholder="Ваш опыт обращения…" required></textarea></div>
+            <button class="cta" type="submit">Отправить</button>
+            <div class="muted" style="margin-top:8px;font-size:12px">* Для продакшена подключите Google Форму, Formspree или backend. Сейчас отзывы сохраняются в вашем браузере.</div>
+          </form>
+        </div>
+      </div>
+    </section>
+
+    <section id="contacts">
+      <h2 class="section-title">Контакты</h2>
+      <div class="contacts">
+        <div class="contact-card">
+          <h3>Телефон (входящая линия)</h3>
+          <p><a href="tel:+7XXXXXXXXXX" class="cta" style="padding:10px 12px">+7 (XXX) XXX-XX-XX</a></p>
+          <p class="muted">Нажмите для вызова с мобильного.</p>
+        </div>
+        <div class="contact-card">
+          <h3>Электронная почта</h3>
+          <p><a href="mailto:info@soglasie-legal.ru" class="cta" style="padding:10px 12px;background:linear-gradient(135deg,var(--accent),var(--brand));">info@soglasie-legal.ru</a></p>
+          <p class="muted">Пишите — ответим в рабочее время.</p>
+        </div>
+        <div class="contact-card">
+          <h3>Rusprofile</h3>
+          <p><a href="https://www.rusprofile.ru/XXXXXXXX" target="_blank" rel="noopener">Проверить реквизиты компании</a></p>
+          <p class="muted">Ссылка на официальный профиль в реестре.</p>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="container">
+      <div>© <span id="year"></span> Юридическая компания «СОГЛАСИЕ». Все права защищены.</div>
+      <div class="muted" style="margin-top:6px;font-size:12px">* Данный сайт носит информационный характер и не является публичной офертой.</div>
+    </div>
+  </footer>
+
+  <script>
+    document.getElementById('year').textContent = new Date().getFullYear();
+    const listEl = document.getElementById('reviews-list');
+    const form = document.getElementById('review-form');
+    function loadReviews(){
+      const data = JSON.parse(localStorage.getItem('soglasie_reviews')||'[]');
+      listEl.innerHTML = data.length? '' : '<div class="muted">Пока нет отзывов — станьте первым.</div>';
+      data.forEach(r=>{
+        const d = document.createElement('div');
+        d.className = 'review';
+        d.innerHTML = `<strong>${r.name}</strong> — ★${r.rating}/5<br><small>${new Date(r.date).toLocaleDateString('ru-RU')}</small><div style="margin-top:6px">${r.text.replace(/</g,'&lt;')}</div>`;
+        listEl.appendChild(d);
+      })
+    }
+    function saveReview(r){
+      const data = JSON.parse(localStorage.getItem('soglasie_reviews')||'[]');
+      data.unshift(r);
+      localStorage.setItem('soglasie_reviews', JSON.stringify(data));
+    }
+    form.addEventListener('submit', (e)=>{
+      e.preventDefault();
+      const r = {
+        name: form.name.value.trim(),
+        rating: Math.max(1, Math.min(5, parseInt(form.rating.value||'5'))),
+        text: form.text.value.trim(),
+        date: Date.now()
+      };
+      if(!r.name || !r.text) return;
+      saveReview(r);
+      form.reset();
+      form.rating.value = 5;
+      loadReviews();
+      alert('Спасибо! Ваш отзыв сохранён.');
+    });
+    loadReviews();
+  </script>
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "LegalService",
+    "name": "Юридическая компания \u00abСОГЛАСИЕ\u00bb",
+    "url": "https://example.com",
+    "email": "info@soglasie-legal.ru",
+    "telephone": "+7XXXXXXXXXX",
+    "areaServed": "RU",
+    "description": "Помощь с выплатами за СВО и сопутствующие юридические вопросы.",
+    "sameAs": ["https://www.rusprofile.ru/XXXXXXXX"],
+    "address": {"@type":"PostalAddress","addressCountry":"RU"}
+  }
+  </script>
+</body>
+</html>
